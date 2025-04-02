@@ -16,5 +16,8 @@ app.log.lck
 
 # Ignore Gradle build output directory
 /build/**
-/gradle/
+/deprecated_gradle_setting/gradle/
 /.gradle/**
+/target/
+/.idea/
+/src/main/resources/rebel.xml

@@ -1,5 +1,5 @@
 
-module io.github.gleidsonmt.dashboardfx {
+module dashboardfx {
 
     requires transitive javafx.controls;
     requires transitive javafx.fxml;

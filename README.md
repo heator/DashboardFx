@@ -2,6 +2,7 @@
 <h6 align="center"> This project is part of the set of custom components created for JavaFx. </h6>
 <h1></h1>
 
+>  The project has now been converted to a **Maven project** and runs seamlessly using **IntelliJ IDEA and Maven**.
 
 [//]: # ([![News]&#40;https://img.shields.io/badge/News-1-brightgreen.svg?style=for-the-badge&#41;]&#40;http://gleidson28.blogspot.com&#41;)
 [//]: # (![Version]&#40;https://img.shields.io/badge/Version-0.3.22-green.svg?style=for-the-badge&#41;)
